@@ -32,7 +32,7 @@ If the data is not already available in the `data` directory, it is downloaded f
 The first step of the preprocessing is to merge the training and test sets. Two sets combined, there are 10,299 instances where each
 instance contains 561 features (560 measurements and subject identifier). After the merge operation, the resulting data (table) contains 562 columns (560 measurements, subject identifier and activity label).  
 
-After the merge operation, mean and standard deviation values are extracted for further processing. Out of 560 measurement features, 33 mean and 33 standard deviations features are extracted, yielding a data frame with 68 features (additional two features are subject identifier and activity label).  
+After the merge operation, mean and standard deviation values are extracted for further processing. Out of 560 measurement features, 31 mean and 31 standard deviations features are extracted, yielding a data frame with 64 features (additional two features are subject identifier and activity label).  
 
 Next, the activity labels are replaced with descriptive activity names, defined in `activity_labels.txt` in the original data folder.  
 
