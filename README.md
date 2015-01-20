@@ -4,4 +4,4 @@ The repository '[gettingcleaningdata](https://github.com/macmishra/gettingcleani
 
 Reference : [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-For more details see CodeBook.md.
+For more details see [CodeBook.md](https://github.com/macmishra/gettingcleaningdata/blob/master/CodeBook.md).
