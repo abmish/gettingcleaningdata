@@ -36,4 +36,4 @@ After the merge operation, mean and standard deviation values are extracted for 
 
 Next, the activity labels are replaced with descriptive activity names, defined in `activity_labels.txt` in the original data folder.  
 
-The final step creates a tidy data set with the average of each variable for each activity and each subject. 10299 instances are split into 180 groups (30 subjects and 6 activities) and 66 mean and standard deviation features are averaged for each group. The resulting data table has 180 rows and 66 columns. The tidy data set is exported to `UCI_HAR_tidy.csv` where the first row is the header containing the names for each column.  
+The final step creates a tidy data set with the average of each variable for each activity and each subject. 10299 instances are split into 180 groups (30 subjects and 6 activities) and 62 mean and standard deviation features are averaged for each group. The resulting data table has 180 rows and 62 columns. The tidy data set is exported to `UCI_HAR_tidy.csv` where the first row is the header containing the names for each column.  
